@@ -8,11 +8,13 @@ This theme aims to bring a Material Design interface to RetroArch, at least, you
 
 Don't use this yet, this is unfinished as fuck.
 
-## Conversion
+## Creation
 
 The SVG icons were converted to PNG files using [svgexport](https://github.com/shakiba/svgexport) and the following command: `svgexport src\icon.svg png\icon.png pad 256:256`.
 
-The wallpaper JPG was converted to a PNG file using [ImageMagick](https://www.imagemagick.org/script/index.php) and the following command: `convert src\bg.jpg png\bg.png`.
+The wallpaper JPG was cropped to a 16:9 aspect ratio and converted to a PNG file using [ImageMagick](https://www.imagemagick.org/script/index.php) and the following command: `convert src\bg.jpg -resize 1920x1080^ -gravity center -extent 1920x1080 png\bg.png`.
+
+I also put some minimal effort into this and reduced the size of some icons by 0.5, done via `convert icon.png -resize 128x128 -background none -gravity center -extent 256x256 icon.png`.
 
 ## Licenses
 
