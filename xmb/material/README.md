@@ -2,6 +2,8 @@
 
 [![As seen on TV](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com) [![Designed in MS Paint](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com) [![Uses Badges](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com) [![Compatibility: Club Penguin](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
 
+[![Material for RetroArch: Preview](https://my.mixtape.moe/xgkgcc.png)]()
+
 ## About
 
 This theme aims to bring a Material Design interface to RetroArch, at least, you know, as far as customizability goes. I obviously can't redesign the whole UI.
