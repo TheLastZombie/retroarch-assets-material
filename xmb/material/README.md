@@ -14,7 +14,9 @@ I work on this whenever I have some free time and feel like it.
 
 ~~Don't use this yet, this is unfinished as fuck.~~
 
-Actually you can do that now, some icons just aren't themed yet, but we're getting there.
+~~Actually you can do that now, some icons just aren't themed yet, but we're getting there.~~
+
+Actually you can't, RetroArch recently added a ton of setting icons and I'm too lazy to update this.
 
 ## Creation
 
